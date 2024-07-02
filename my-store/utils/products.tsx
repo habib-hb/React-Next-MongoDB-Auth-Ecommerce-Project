@@ -25,6 +25,9 @@ export const products = [
       ],
       reviews: [],
     },
+
+
+
     {
       id: "64a4ebe300900d44bb50628a",
       name: "Logitech MX Keys Advanced Wireless Illuminated Keyboard, Tactile Responsive Typing, Backlighting, Bluetooth, USB-C, Apple macOS, Microsoft Windows, Linux, iOS, Android, Metal Build (Black)",
@@ -65,6 +68,9 @@ export const products = [
         },
       ],
     },
+
+
+
     {
       id: "648437b38c44d52b9542e340",
       name: "Apple iPhone 13, 64GB",
@@ -138,6 +144,9 @@ export const products = [
         },
       ],
     },
+
+
+
     {
       id: "64a4e9e77e7299078334019f",
       name: "Logitech MX Master 2S Wireless Mouse – Use on Any Surface, Hyper-Fast Scrolling, Ergonomic Shape, Rechargeable, Control Upto 3 Apple Mac and Windows Computers, Graphite",
@@ -157,6 +166,9 @@ export const products = [
       ],
       reviews: [],
     },
+
+
+    
     {
       id: "649d775128b6744f0f497040",
       name: 'Smart Watch(Answer/Make Call), 1.85" Smartwatch for Men Women IP68 Waterproof, 100+ Sport Modes, Fitness Activity Tracker, Heart Rate Sleep Monitor, Pedometer, Smart Watches for Android iOS, 2023',
